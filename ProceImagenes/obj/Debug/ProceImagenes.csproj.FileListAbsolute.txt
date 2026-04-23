@@ -1,0 +1,13 @@
+C:\Users\Alan\source\repos\ProceImagenes\ProceImagenes\bin\Debug\ProceImagenes.exe.config
+C:\Users\Alan\source\repos\ProceImagenes\ProceImagenes\bin\Debug\ProceImagenes.exe
+C:\Users\Alan\source\repos\ProceImagenes\ProceImagenes\bin\Debug\ProceImagenes.pdb
+C:\Users\Alan\source\repos\ProceImagenes\ProceImagenes\obj\Debug\ProceImagenes.csproj.AssemblyReference.cache
+C:\Users\Alan\source\repos\ProceImagenes\ProceImagenes\obj\Debug\ProceImagenes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alan\source\repos\ProceImagenes\ProceImagenes\obj\Debug\ProceImagenes.Form1.resources
+C:\Users\Alan\source\repos\ProceImagenes\ProceImagenes\obj\Debug\ProceImagenes.Properties.Resources.resources
+C:\Users\Alan\source\repos\ProceImagenes\ProceImagenes\obj\Debug\ProceImagenes.csproj.GenerateResource.cache
+C:\Users\Alan\source\repos\ProceImagenes\ProceImagenes\obj\Debug\ProceImagenes.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\ProceImagenes\ProceImagenes\obj\Debug\ProceImagenes.exe
+C:\Users\Alan\source\repos\ProceImagenes\ProceImagenes\obj\Debug\ProceImagenes.pdb
+C:\Users\Alan\source\repos\ProceImagenes\ProceImagenes\obj\Debug\ProceImagenes.Camara.resources
+C:\Users\Alan\source\repos\ProceImagenes\ProceImagenes\obj\Debug\ProceImagenes.Video.resources
